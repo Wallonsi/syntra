@@ -2,6 +2,7 @@ print("Hello", "world!", sep=" ", end="\n")
 
 me = "William Allonsius" #string (str)
 you = "Yves"
+test = "Wesley"
 
 een = 1  #integer
 tweeeneenhalf = 2.5  #float
