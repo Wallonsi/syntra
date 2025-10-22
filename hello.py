@@ -1,3 +1,9 @@
+import sys
+
+#import debug <- import debug.py
+
+#sys.exit() <- run code until this line
+
 print("Hello", "world!", sep=" ", end="\n")
 
 me = "William Allonsius" #string (str)
@@ -32,9 +38,9 @@ print(6 >> 1)
 print(5 ** 2) # 5 tot de 2de macht = 25
 
 a = 1
-a = "Yves" #eerst "a" gaat overschreven worden door tweede "a"
+#a = "Yves" #eerst "a" gaat overschreven worden door tweede "a"
 b = "Toto"
-print(a + b) #a en b samenvoegen
+#print(a + b) #a en b samenvoegen
 print(" " * 30) #30 spaties printen
 
 x = 1
@@ -55,7 +61,7 @@ print(len("Yves")) #aantal characters
 
 # "CTRL" + "/" = alles in commentaar zetten
 
-a = """
+"""
 Dit is één grote lange tekst
 Blablabla
 Hahaha
